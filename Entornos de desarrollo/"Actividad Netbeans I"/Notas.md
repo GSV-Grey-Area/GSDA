@@ -12,3 +12,5 @@ Ubuntu
 [[/assets/images/IZim4s3.png|Imagen]]
 
 [!Imagen](/assets/images/IZim4s3.png)
+
+![alt text](https://github.com/GSV-Grey-Area/GSDA/blob/main/assets/images/IZim4s3.png?raw=true)
