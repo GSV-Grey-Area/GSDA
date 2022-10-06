@@ -9,4 +9,4 @@ Ubuntu
 - Netbeans: "org-netbeans-swing-laf-flatlaf" no encontrado
 - Netbeans: "No main classes found"
 
-[!Imagen](/assets/images/IZim4s3.png)
+[[/assets/images/IZim4s3.png)]]
