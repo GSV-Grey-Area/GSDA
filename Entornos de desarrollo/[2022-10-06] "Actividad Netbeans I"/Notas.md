@@ -10,3 +10,7 @@ Ubuntu
 - Netbeans: "No main classes found"
 
 ![Progreso actual](https://github.com/GSV-Grey-Area/GSDA/blob/main/assets/images/IZim4s3.png?raw=true)
+
+El problema se solucionó reinstalando el NetBeans. Tenía la versión 10 y la nueva es la 15.
+
+todo: captura de la ejecución exitosa
