@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+		<style>
+			input, select
+			{
+				width: 100px;
+				margin: 2px;
+			}
+			
+			form
+			{
+				width: 60%;
+				margin: auto;
+				text-align: right;
+			}
+			
+			input[type="radio"], input[type="checkbox"], label
+			{
+				width: 13px;
+				margin-right: 0;
+			}
+		</style>
+	</head>
+	<body>
+		<div>
+			<form action="recogedatos.php" method="POST">
+				<label for="name">Nombre: </label>
+				<input type="text" id="name" name="name"><br>
+				<label for="plate">Matr&iacutecula: </label>
+				<input type="text" id="plate" name="plate"><br>
+				<label for="phone">Tel&eacutefono: </label>
+				<input type="tel" id="phone" name="phone" pattern="[0-9]{9}"><br>
+				<label for="email">Correo: </label>
+				<input type="email" id="email" name="email"><br>
+				<label for="maker">Marca: </label>
+				<select name="maker" id="maker">
+					<option value="bmw">BMW</option>
+					<option value="ford">Ford</option>
+					<option value="seat">Seat</option>
+				  <option value="toyota">Toyota</option>
+				</select><br>
+				<input type="radio" id="yes" name="seguro" value="Usa seguro">
+				<label for="yes">Usa seguro</label><br>
+				<input type="radio" id="no" name="seguro" value="No usa seguro">
+				<label for="no">No usa seguro</label><br>
+				
+				<input type="checkbox" id="hora1" name="hora1" value="Mañana">
+				<label for="hora1">Ma&ntildeana</label><br>
+				<input type="checkbox" id="hora2" name="hora2" value="Tarde">
+				<label for="hora2">Tarde</label><br>
+				<input type="checkbox" id="hora3" name="hora3" value="Noche">
+				<label for="hora3">Noche</label></br>
+				<input type="submit" value="Enviar">
+			</form>
+		</div>
+	</body>
+</html>
