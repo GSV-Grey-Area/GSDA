@@ -1,0 +1,18 @@
+Código;Nombre;Unidad de medida
+1;Dióxido de azufre;µg/m³
+6;Monóxido de carbono;mg/m³
+7;Monóxido de nitrógeno;µg/m³
+8;Dióxido de nitrógeno;µg/m³
+9;Partículas <2.5 µm;µg/m³
+10;Partículas <10 µm;µg/m³
+12;Óxidos de nitrógeno;µg/m³
+14;Ozono;µg/m³
+20;Tolueno;µg/m³
+30;Benceno;µg/m³
+35;Etilbenceno;µg/m³
+37;Metaxileno;µg/m³
+38;Paraxileno;µg/m³
+39;Ortoxileno;µg/m³
+42;Hidrocarburos totales (Hexano);mg/m³
+43;Metano;mg/m³
+44;Hidrocarburos no metánicos (Hexano);mg/m³
