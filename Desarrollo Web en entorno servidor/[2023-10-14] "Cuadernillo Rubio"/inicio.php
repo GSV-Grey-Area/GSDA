@@ -32,7 +32,7 @@
 					echo '<input type="number" id="num1" name="num1" value="';
 					echo rand(0, 100);
 					echo '" readonly="readonly">';
-					
+					echo '+';
 					echo '<input type="number" id="num2" name="num2" value="';
 					echo rand(0, 100);
 					echo '" readonly="readonly">';
