@@ -28,7 +28,7 @@
 			if ($num4 != $num3)
 			{
 				echo "<span class='red'>Has calculado mal.</span></p>";
-				echo "<form action='inicio.php' method='POST'></form>"
+				echo "<form action='inicio.php' method='POST'></form>";
 			}
 			else if ($num4 = $num3)
 			{
