@@ -1,0 +1,46 @@
+input[type="text"]
+{
+	width: 74%;
+	margin: 2px;
+	box-sizing: border-box;
+}
+
+input[type="submit"]
+{
+	margin: 2px;
+	box-sizing: border-box;
+}
+
+.Send
+{
+	width: 24%;
+}
+
+.Center
+{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+}
+
+.Right
+{
+	display: flex;
+	justify-content: flex-end;
+}
+			
+h2
+{
+	text-align: center;
+}
+
+span
+{
+	color: #AAAAAA;
+}
+
+p
+{
+	margin: 5px 5px;
+}
