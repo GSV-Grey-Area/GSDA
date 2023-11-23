@@ -1,0 +1,48 @@
+input, select
+{
+	width: 150px;
+	margin: 2px;
+	box-sizing: border-box;
+}
+
+.Center
+{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+}
+
+.FormAt
+{
+	text-align: right;
+	margin: auto;
+}
+			
+input[type="radio"], input[type="checkbox"], label
+{
+	width: 13px;
+	margin-right: 0;
+}
+
+body
+{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+			
+body > div
+{
+	align: center;
+}
+			
+h2, span
+{
+	text-align: center;
+}
+
+p
+{
+	margin: 5px 5px;
+}
