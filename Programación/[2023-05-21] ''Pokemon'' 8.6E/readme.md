@@ -3,16 +3,22 @@ Este fue un proyecto para programación. Se me ocurrió hacerle unos dibujos. Fu
 En general lo interesante del proyecto es el motor gráfico y su capacidad de importar y posicionar .bmp en la consola. El flujo del juego y su funcionamiento general no están muy desarrollados.
 
 Portada:
-![Imagen](https://github.com/GSV-Grey-Area/GSDA/blob/main/Programaci%C3%B3n/%5B2023-05-21%5D%20%22Pokemon%22%208.6E/img/Cover.png?raw=true)
+
+![Imagen](https://github.com/GSV-Grey-Area/GSDA/blob/main/Programaci%C3%B3n/%5B2023-05-21%5D%20''Pokemon''%208.6E/img/Cover.png?raw=true)
+
 
 Selección del pokemon:
-![Imagen](https://github.com/GSV-Grey-Area/GSDA/blob/main/Programaci%C3%B3n/%5B2023-05-21%5D%20%22Pokemon%22%208.6E/img/Selecci%C3%B3n.png?raw=true)
 
-Menú principal
-![Imagen](https://github.com/GSV-Grey-Area/GSDA/blob/main/Programaci%C3%B3n/%5B2023-05-21%5D%20%22Pokemon%22%208.6E/img/Men%C3%BA%20principal.png?raw=true)
+![Imagen](https://github.com/GSV-Grey-Area/GSDA/blob/main/Programaci%C3%B3n/%5B2023-05-21%5D%20''Pokemon''%208.6E/img/Selecci%C3%B3n.png?raw=true)
+
+Menú principal:
+
+![Imagen](https://github.com/GSV-Grey-Area/GSDA/blob/main/Programaci%C3%B3n/%5B2023-05-21%5D%20''Pokemon''%208.6E/img/Men%C3%BA%20principal.png?raw=true)
 
 Combate:
-![Imagen](https://github.com/GSV-Grey-Area/GSDA/blob/main/Programaci%C3%B3n/%5B2023-05-21%5D%20%22Pokemon%22%208.6E/img/Combate.png?raw=true)
+
+![Imagen](https://github.com/GSV-Grey-Area/GSDA/blob/main/Programaci%C3%B3n/%5B2023-05-21%5D%20''Pokemon''%208.6E/img/Combate.png?raw=true)
 
 Centro Pokémon:
-![Imagen](https://github.com/GSV-Grey-Area/GSDA/blob/main/Programaci%C3%B3n/%5B2023-05-21%5D%20%22Pokemon%22%208.6E/img/Centro%20Pok%C3%A9mon.png?raw=true)
+
+![Imagen](https://github.com/GSV-Grey-Area/GSDA/blob/main/Programaci%C3%B3n/%5B2023-05-21%5D%20''Pokemon''%208.6E/img/Centro%20Pok%C3%A9mon.png?raw=true)
